@@ -1,5 +1,9 @@
 Slash 3D Survival Game
 
+## Try it out!!
+Link: https://slash-3-d-survival-game.vercel.app
+
+
 ## Overview
 This is a 3D survival game built using Three.js, featuring an immersive open-world environment with player character, NPCs, and dynamic gameplay mechanics.
 
