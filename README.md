@@ -76,8 +76,8 @@ cd Slash-3D-Survival-Game
 ## Gameplay Controls
 - Movement: WASD keys
 - Camera: Mouse movement
-- Attack: Left mouse button
-- Inventory management: (Specify your specific keybindings)
+- Attack: Space Bar
+- Inventory management: Drag n Drop
 
 ## Performance Optimization
 - Spatial hash grid for efficient entity management
@@ -96,6 +96,6 @@ cd Slash-3D-Survival-Game
 - Browser compatibility variations
 
 ## Credits
-- Game Development: [Your Name]
-- 3D Models: [Model Resource Credits]
+- Game Development: Mayuresh
+- 3D Models: Three js Examples
 - Libraries: Three.js Community
