@@ -89,6 +89,8 @@ cd Slash-3D-Survival-Game
 - Add more weapon and character customization
 - Expand NPC interactions
 - Implement multiplayer functionality
+- Add story mode
+- improve Terrain, lighting & texture
 
 ## Known Issues
 - Performance may vary based on hardware
