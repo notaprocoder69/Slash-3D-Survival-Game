@@ -45,7 +45,7 @@ This is a 3D survival game built using Three.js, featuring an immersive open-wor
 ## Prerequisites
 - Modern web browser with WebGL support
 - JavaScript enabled
-- Recommended browsers: Chrome, Firefox, Safari, Edge
+- Recommended browsers: Chrome, Firefox, Safari, Edge (with Hardware Acceleration enabled)
 
 ## Installation
 
