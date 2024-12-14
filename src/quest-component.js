@@ -4,7 +4,9 @@ import {entity} from "./entity.js";
 export const quest_component = (() => {
 
   const _TITLE = 'Welcome Adventurer!';
-  const _TEXT = `Welcome to Honeywood adventurer, I see you're the chosen one and also the dragon born and whatever else, you're going to save the world! Also bring the rings back to mordor and defeat the evil dragon, and all the other things. But first, I must test you with some meaningless bullshit tasks that every rpg makes you do to waste time. Go kill like uh 30 ghosts and collect their eyeballs or something. Also go get my drycleaning and pick up my kids from daycare.`;
+  const _TEXT = `Welcome to Honeywood, brave adventurer! Ah, so thou art the Chosen One, the Dragonborn, and bearer of many other lofty titles destined to save this weary world. A grand fate lies before thee: to return the sacred rings to the fiery chasms of Mordor, to fell the dread dragon that plagues the land, and to undertake many other deeds of glory yet unsung.
+
+But lo, before such greatness, a test of thy mettle is required. Prove thy worth with tasks most… essential. Venture forth and vanquish 30 wailing spirits, bringing back their cursed eyeballs as proof of thy valor. And whilst thou art at it, retrieve mine robes from the dry cleaner and fetch mine children from the village crèche. Go forth, hero, and make haste!`;
 
   class QuestComponent extends entity.Component {
     constructor() {
